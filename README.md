@@ -15,7 +15,7 @@ I am actively learning about AI concepts and working on projects that involve ma
 
 ## 📫 How to Reach Me
 - Email: anubrata.naskar@gmail.com
-- LinkedIn: [](https://www.linkedin.com/in/anubrata-naskar)
+- LinkedIn: [Anubrata Naskar](https://www.linkedin.com/in/anubrata-naskar)
 
 ## ⚡ Fun Fact
 I enjoy solving puzzles, exploring open source, and contributing to tech communities!
