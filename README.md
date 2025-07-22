@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm Anubrata Naskar
 
-<!--
-**anubrata-naskar/anubrata-naskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I'm passionate about coding, learning new technologies, and building cool projects. Currently, I am exploring the field of Artificial Intelligence and developing projects to enhance my understanding and skills in AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- Languages: Python, JavaScript, Java
+- Frameworks: React, Node.js
+- Tools: Git, Docker, VS Code
+
+## 🤖 AI Learning
+I am actively learning about AI concepts and working on projects that involve machine learning and data science. I aim to apply these technologies to real-world problems and expand my knowledge in the domain.
+
+## 📫 How to Reach Me
+- Email: anubrata.naskar@gmail.com
+- LinkedIn: [](https://www.linkedin.com/in/anubrata-naskar)
+
+## ⚡ Fun Fact
+I enjoy solving puzzles, exploring open source, and contributing to tech communities!
+
+---
+
+Feel free to check out my repositories and connect with me!
