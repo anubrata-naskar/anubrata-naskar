@@ -2,7 +2,7 @@
 
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Anubrata Naskar
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=600&lines=Welcome+to+my+GitHub+profile!;Passionate+about+coding+and+AI;Always+learning+new+technologies;Building+cool+projects+daily!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=600&lines=Welcome+to+my+GitHub+profile!;Passionate+about+coding+and+AI;Always+learning+new+technologies;Building+cool+projects+daily!)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anubrata-naskar&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/anubrata-naskar?label=Followers&style=social)
